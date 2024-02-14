@@ -5,4 +5,5 @@
 - onion
 
 # Instructions
-TBD
+1. Go to the store.
+
